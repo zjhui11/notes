@@ -150,8 +150,6 @@ JDK 1.8之后使用元空间（存放在内存里）替代方法区，为什么�
 
 常量池项包含的内容:https://blog.csdn.net/qq_26222859/article/details/73135660
 
-![](https://img-blog.csdn.net/20170329213804490 watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvU3VnYXJfUmFpbmJvdw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
-
 ### 直接内存
 
 **直接内存并不是虚拟机运行时数据区的一部分，也不是虚拟机规范中定义的内存区域，但是这部分内存也被频繁地使用。而且也可能导致 OutOfMemoryError 错误出现。**
