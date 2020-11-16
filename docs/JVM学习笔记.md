@@ -149,6 +149,7 @@ JDK 1.8之后使用元空间（存放在内存里）替代方法区，为什么�
 **JDK1.7 及之后版本的 JVM 已经将字符串常量池从方法区中移了出来，在 Java 堆（Heap）中开辟了一块区域存放字符串常量池。**但是运行时常量池的其他内容还在方法区，也是就是元空间里面。
 
 常量池项包含的内容:https://blog.csdn.net/qq_26222859/article/details/73135660
+![](https://img-blog.csdn.net/20170329213804490 watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvU3VnYXJfUmFpbmJvdw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 ### 直接内存
 
