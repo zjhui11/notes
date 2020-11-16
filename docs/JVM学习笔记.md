@@ -7,6 +7,7 @@ Java虚拟机在执行Java程序的过程中会把它所管理的内存划分为
 JDK 1.8之前：
 
 ![](http://wardseptember.top/FpJKe1Oj5-IsogbkudF_Elk6TcTM)
+JDK 1.7 有永久代，但已经逐步“去永久代”,常量池在堆中
 
 JDK 1.8之后：
 
